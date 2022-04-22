@@ -1,0 +1,13 @@
+;  - End of a statement
+{ == Open
+} == Close
+[ ] == Array
+() == Condition / Parameters / Arguments
+// == Comments --> single line comment
+/* == Multi Line Comments
+*
+*
+*
+*\ 
++ - * / %
+> < >= <= !=
